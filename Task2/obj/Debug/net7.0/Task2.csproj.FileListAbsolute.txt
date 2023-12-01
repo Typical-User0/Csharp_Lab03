@@ -1,0 +1,14 @@
+/Users/george/RiderProjects/Lab3/Task2/bin/Debug/net7.0/Task2
+/Users/george/RiderProjects/Lab3/Task2/bin/Debug/net7.0/Task2.deps.json
+/Users/george/RiderProjects/Lab3/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/Users/george/RiderProjects/Lab3/Task2/bin/Debug/net7.0/Task2.dll
+/Users/george/RiderProjects/Lab3/Task2/bin/Debug/net7.0/Task2.pdb
+/Users/george/RiderProjects/Lab3/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/george/RiderProjects/Lab3/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/Users/george/RiderProjects/Lab3/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/Users/george/RiderProjects/Lab3/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/Users/george/RiderProjects/Lab3/Task2/obj/Debug/net7.0/Task2.dll
+/Users/george/RiderProjects/Lab3/Task2/obj/Debug/net7.0/refint/Task2.dll
+/Users/george/RiderProjects/Lab3/Task2/obj/Debug/net7.0/Task2.pdb
+/Users/george/RiderProjects/Lab3/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/Users/george/RiderProjects/Lab3/Task2/obj/Debug/net7.0/ref/Task2.dll
